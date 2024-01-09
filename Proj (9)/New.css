@@ -1,0 +1,49 @@
+.carousel-item{
+    height: 450px;
+}
+.imgg{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#section-one{
+    position: relative;
+    min-height: 200px;
+    background: url(b.jpg);
+    background-attachment: fixed;
+}
+.dark-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgb(107, 93, 121,0.5);
+    width: 100%;
+    height: 100%;
+}
+
+#section-two{
+    position: relative;
+    min-height: 200px;
+    background: url(a.jpg);
+    background-attachment: fixed;
+}
+.dark-overlayy{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgb(107, 93, 121,0.5);
+    width: 100%;
+    height: 100%;
+}
+.mm{
+    background-image: url(a.jpg);
+    color: aliceblue;
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-weight: 800;
+    background-attachment: fixed;
+  
+}
+textarea{
+    resize: none;
+}
